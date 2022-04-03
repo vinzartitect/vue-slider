@@ -22,7 +22,9 @@ var app = new Vue (
             photos: [
                 './asset/img/Ferrari_F1.jpg',
                 './asset/img/Red_Bull_F1.jpg',
-                './asset/img/McLaren_F1.jpg'
+                './asset/img/McLaren_F1.jpg',
+                './asset/img/Mercedes_F1.jpg',
+                './asset/img/Alfa_F1.jpg'
             ],
 
             counterPhoto: 0
